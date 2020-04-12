@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rpg-dice-web/static/js/main.ecfcccc6.chunk.js",
+    "main.js.map": "/rpg-dice-web/static/js/main.ecfcccc6.chunk.js.map",
+    "runtime-main.js": "/rpg-dice-web/static/js/runtime-main.de3efb27.js",
+    "runtime-main.js.map": "/rpg-dice-web/static/js/runtime-main.de3efb27.js.map",
+    "static/js/2.a5bba0b7.chunk.js": "/rpg-dice-web/static/js/2.a5bba0b7.chunk.js",
+    "static/js/2.a5bba0b7.chunk.js.map": "/rpg-dice-web/static/js/2.a5bba0b7.chunk.js.map",
+    "index.html": "/rpg-dice-web/index.html",
+    "precache-manifest.1c366c06de102418615498868b3edeac.js": "/rpg-dice-web/precache-manifest.1c366c06de102418615498868b3edeac.js",
+    "service-worker.js": "/rpg-dice-web/service-worker.js",
+    "static/js/2.a5bba0b7.chunk.js.LICENSE.txt": "/rpg-dice-web/static/js/2.a5bba0b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de3efb27.js",
+    "static/js/2.a5bba0b7.chunk.js",
+    "static/js/main.ecfcccc6.chunk.js"
+  ]
+}
